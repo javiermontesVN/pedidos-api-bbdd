@@ -1,0 +1,64 @@
+{
+  "impuestos": [
+    {
+      "pais": "España",
+      "tasa_impuesto": 0.21
+    },
+    {
+      "pais": "México",
+      "tasa_impuesto": 0.16
+    },
+    {
+      "pais": "Argentina",
+      "tasa_impuesto": 0.21
+    },
+    {
+      "pais": "Chile",
+      "tasa_impuesto": 0.19
+    },
+    {
+      "pais": "Colombia",
+      "tasa_impuesto": 0.19
+    },
+    {
+      "pais": "Perú",
+      "tasa_impuesto": 0.18
+    },
+    {
+      "pais": "Brasil",
+      "tasa_impuesto": 0.17
+    },
+    {
+      "pais": "Ecuador",
+      "tasa_impuesto": 0.12
+    },
+    {
+      "pais": "Uruguay",
+      "tasa_impuesto": 0.15
+    },
+    {
+      "pais": "Paraguay",
+      "tasa_impuesto": 0.13
+    },
+    {
+      "pais": "Bolivia",
+      "tasa_impuesto": 0.13
+    },
+    {
+      "pais": "Venezuela",
+      "tasa_impuesto": 0.16
+    },
+    {
+      "pais": "Guatemala",
+      "tasa_impuesto": 0.12
+    },
+    {
+      "pais": "Honduras",
+      "tasa_impuesto": 0.15
+    },
+    {
+      "pais": "El Salvador",
+      "tasa_impuesto": 0.13
+    }
+  ]
+}
