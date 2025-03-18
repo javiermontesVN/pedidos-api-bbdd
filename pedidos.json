@@ -9,7 +9,6 @@
             "productos": "Laptop, Mouse",
             "metodo_pago": "Tarjeta de crédito",
             "estado": "Enviado",
-            "tasa_impuesto": 0.21,
             "direccion_envio": "Calle Mayor 123, Madrid, España"
         },
         {
@@ -21,7 +20,6 @@
             "productos": "Teléfono, Funda",
             "metodo_pago": "PayPal",
             "estado": "Pendiente",
-            "tasa_impuesto": 0.16,
             "direccion_envio": "Av. Reforma 456, CDMX, México"
         },
         {
@@ -33,7 +31,6 @@
             "productos": "Tablet, Teclado",
             "metodo_pago": "Transferencia bancaria",
             "estado": "Entregado",
-            "tasa_impuesto": 0.1,
             "direccion_envio": "Calle Corrientes 789, Buenos Aires, Argentina"
         },
         {
@@ -45,7 +42,6 @@
             "productos": "Auriculares, Cargador",
             "metodo_pago": "Tarjeta de débito",
             "estado": "Enviado",
-            "tasa_impuesto": 0.19,
             "direccion_envio": "Av. Las Condes 101, Santiago, Chile"
         },
         {
@@ -57,7 +53,6 @@
             "productos": "Smartwatch",
             "metodo_pago": "Efectivo",
             "estado": "Entregado",
-            "tasa_impuesto": 0.19,
             "direccion_envio": "Cra 15 #22-30, Bogotá, Colombia"
         },
         {
@@ -69,7 +64,6 @@
             "productos": "Monitor, Cable HDMI",
             "metodo_pago": "Tarjeta de crédito",
             "estado": "Pendiente",
-            "tasa_impuesto": 0.18,
             "direccion_envio": "Jr. Arequipa 987, Lima, Perú"
         },
         {
@@ -81,7 +75,6 @@
             "productos": "Impresora, Tinta",
             "metodo_pago": "PayPal",
             "estado": "Enviado",
-            "tasa_impuesto": 0.17,
             "direccion_envio": "Rua Paulista 321, São Paulo, Brasil"
         },
         {
@@ -93,7 +86,6 @@
             "productos": "Teclado, Mouse",
             "metodo_pago": "Transferencia bancaria",
             "estado": "Entregado",
-            "tasa_impuesto": 0.12,
             "direccion_envio": "Av. Amazonas 654, Quito, Ecuador"
         },
         {
@@ -105,7 +97,6 @@
             "productos": "Disco Duro Externo",
             "metodo_pago": "Efectivo",
             "estado": "Pendiente",
-            "tasa_impuesto": 0.15,
             "direccion_envio": "Bulevar Artigas 12, Montevideo, Uruguay"
         },
         {
@@ -117,7 +108,6 @@
             "productos": "Silla Gamer",
             "metodo_pago": "Tarjeta de crédito",
             "estado": "Enviado",
-            "tasa_impuesto": 0.13,
             "direccion_envio": "Calle Palma 77, Asunción, Paraguay"
         },
         {
@@ -129,7 +119,6 @@
             "productos": "Consola de Videojuegos",
             "metodo_pago": "PayPal",
             "estado": "Entregado",
-            "tasa_impuesto": 0.14,
             "direccion_envio": "Av. Cívica 909, La Paz, Bolivia"
         },
         {
@@ -141,7 +130,6 @@
             "productos": "Router WiFi",
             "metodo_pago": "Transferencia bancaria",
             "estado": "Enviado",
-            "tasa_impuesto": 0.22,
             "direccion_envio": "Av. Libertador 555, Caracas, Venezuela"
         },
         {
@@ -153,7 +141,6 @@
             "productos": "Cámara Fotográfica",
             "metodo_pago": "Efectivo",
             "estado": "Pendiente",
-            "tasa_impuesto": 0.09,
             "direccion_envio": "6a Avenida 234, Ciudad de Guatemala, Guatemala"
         },
         {
@@ -165,7 +152,6 @@
             "productos": "Micrófono, Trípode",
             "metodo_pago": "Tarjeta de crédito",
             "estado": "Entregado",
-            "tasa_impuesto": 0.11,
             "direccion_envio": "Blvd. Morazán 888, Tegucigalpa, Honduras"
         },
         {
@@ -177,7 +163,6 @@
             "productos": "Libro Electrónico",
             "metodo_pago": "PayPal",
             "estado": "Enviado",
-            "tasa_impuesto": 0.2,
             "direccion_envio": "Av. Roosevelt 678, San Salvador, El Salvador"
         }
     ]
