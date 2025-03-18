@@ -1,7 +1,7 @@
 {
     "pedidos": [
         {
-            "id_pedido": 1001,
+            "id_pedido": 1000,
             "nombre_cliente": "Juan Pérez",
             "monto_total": 150.75,
             "fecha_compra": "2025-03-01",
@@ -10,6 +10,17 @@
             "metodo_pago": "Tarjeta de crédito",
             "estado": "Enviado",
             "direccion_envio": "Calle Mayor 123, Madrid, España"
+        },
+        {
+            "id_pedido": 1001,
+            "nombre_cliente": "Joselito Fernández",
+            "monto_total": 270.14,
+            "fecha_compra": "2025-04-01",
+            "ubicación": "Luxemburgo",
+            "productos": "Laptop",
+            "metodo_pago": "Tarjeta de crédito",
+            "estado": "Enviado",
+            "direccion_envio": "Rte de Roost, 4"
         },
         {
             "id_pedido": 1002,
