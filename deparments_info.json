@@ -1,0 +1,116 @@
+{
+    "departments": [
+        {
+            "department_name": "Marketing",
+            "interested_topics": [
+                "Digital Marketing Trends",
+                "Social Media Strategies",
+                "SEO Best Practices",
+                "Brand Awareness",
+                "Content Marketing"
+            ]
+        },
+        {
+            "department_name": "Sales",
+            "interested_topics": [
+                "Sales Techniques",
+                "Lead Generation",
+                "Customer Relationship Management (CRM)",
+                "Sales Automation Tools",
+                "Sales Strategies"
+            ]
+        },
+        {
+            "department_name": "HR",
+            "interested_topics": [
+                "Employee Engagement",
+                "Talent Acquisition",
+                "Workplace Culture",
+                "Employee Benefits",
+                "Training and Development"
+            ]
+        },
+        {
+            "department_name": "Finance",
+            "interested_topics": [
+                "Financial Forecasting",
+                "Investment Trends",
+                "Budgeting Strategies",
+                "Risk Management",
+                "Corporate Taxation"
+            ]
+        },
+        {
+            "department_name": "IT",
+            "interested_topics": [
+                "Cloud Computing",
+                "Cybersecurity Trends",
+                "Software Development",
+                "IT Infrastructure",
+                "Artificial Intelligence"
+            ]
+        },
+        {
+            "department_name": "Operations",
+            "interested_topics": [
+                "Supply Chain Optimization",
+                "Process Automation",
+                "Inventory Management",
+                "Lean Manufacturing",
+                "Logistics and Distribution"
+            ]
+        },
+        {
+            "department_name": "Customer Support",
+            "interested_topics": [
+                "Customer Service Best Practices",
+                "Customer Feedback Analysis",
+                "Omnichannel Support",
+                "Service Level Agreements (SLA)",
+                "Customer Satisfaction Metrics"
+            ]
+        },
+        {
+            "department_name": "Legal",
+            "interested_topics": [
+                "Corporate Law",
+                "Intellectual Property",
+                "Data Privacy Regulations",
+                "Contract Law",
+                "Litigation Trends"
+            ]
+        },
+        {
+            "department_name": "Product Development",
+            "interested_topics": [
+                "Product Lifecycle Management",
+                "Market Research and Trends",
+                "Product Design and Innovation",
+                "Agile Methodology",
+                "Prototyping and Testing"
+            ]
+        },
+        {
+            "department_name": "R&D",
+            "interested_topics": [
+                "Emerging Technologies",
+                "Scientific Research Developments",
+                "Sustainability in Innovation",
+                "Research Funding",
+                "Intellectual Property in Research"
+            ]
+        },
+        {
+            "department_name": "AI and Automation",
+            "interested_topics": [
+                "RPA",
+                "LLMs",
+                "AI Agents",
+                "Artificial Intelligence",
+                "Models",
+                "ML",
+                "RAG"
+            ]
+        }
+    ]
+}
