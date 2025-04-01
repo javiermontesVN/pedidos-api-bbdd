@@ -49,6 +49,11 @@
       "title": "AI in Precision Agriculture: Automation for Increased Crop Yields",
       "abstract": "This paper investigates the role of AI and automation in enhancing agricultural productivity. The focus is on precision agriculture, where AI-driven tools help optimize crop management, irrigation, and pest control for higher yields.",
       "content": "Precision agriculture is transforming farming practices by integrating AI and automation into crop management. This paper reviews the use of machine learning algorithms and robotic systems in optimizing agricultural processes such as soil analysis, irrigation, and pest control. The research demonstrates how AI-driven tools analyze data from sensors, drones, and satellite imagery to monitor crop health and predict optimal harvest times. By automating tasks such as irrigation management, farmers can reduce water usage and increase crop yields. The study also discusses challenges related to data privacy, the high cost of implementing AI technologies, and the need for farmers to adapt to these new technologies to remain competitive."
+    },
+    {
+      "title": "AI Agents in Cybersecurity: Automating Threat Detection",
+      "abstract": "AI-powered agents are transforming cybersecurity by automating threat detection and incident response. This paper discusses the integration of AI Agents with RAG techniques to enhance real-time threat intelligence.",
+      "content": "Cybersecurity is increasingly reliant on AI Agents for automated threat detection and response. These intelligent systems use machine learning algorithms to analyze network traffic, detect anomalies, and respond to security threats in real-time. A key advancement in this field is the integration of Retrieval-Augmented Generation (RAG), which allows AI Agents to pull the latest threat intelligence data before making decisions. By leveraging RAG, cybersecurity AI can improve its adaptability to new attack vectors and enhance proactive defense strategies. The study highlights successful implementations of AI-driven cybersecurity tools in enterprises and the ongoing challenges related to false positives and adversarial attacks."
     }
   ]
 }
